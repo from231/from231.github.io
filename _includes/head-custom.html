@@ -1,0 +1,19 @@
+<!-- OpenGraph Meta Tags -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:image" content="{{ '/assets/images/from231-logo.png' | absolute_url }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:locale" content="en_US" />
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="twitter:image" content="{{ '/assets/images/from231-logo.png' | absolute_url }}" />
+
+<!-- Additional Meta Tags -->
+<meta name="author" content="Chris from 231" />
+<meta name="keywords" content="Vancouver Whitecaps, MLS, soccer, football, Whitecaps FC, newsletter, From 231, Chris" />
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
