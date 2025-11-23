@@ -1,9 +1,9 @@
 # Site Configuration for From 231 Newsletter
 title: From 231
-description: Your weekly companion for all things Whitecaps FC, straight from Section 231
+description: Chris's weekly newsletter covering Vancouver Whitecaps FC, straight from Section 231
 logo: "/assets/images/from231-logo.png"
 baseurl: ""
-url: "https://from231.github.io"
+url: "https://from231.ca"
 
 # Theme configuration
 theme: just-the-docs
