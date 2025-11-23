@@ -17,7 +17,7 @@ Chris's weekly companion for all things Whitecaps FC, straight from Section 231.
 {: .fs-6 .fw-300 }
 
 [Check out the archives](https://buttondown.com/from231/archive/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Visit Whitecaps FC](https://www.whitecapsfc.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Join the Discord](https://discord.gg/jsBeeySvQW){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -82,16 +82,21 @@ Once you're ready, just come back here and sign up. I'll save you a virtual seat
 
 - [About Chris & From 231](/about) - Learn more about the newsletter and who's behind it
 - [Newsletter Archives](https://buttondown.com/from231/archive/) - Read past issues
+- [Join Discord Community](https://discord.gg/jsBeeySvQW) - Chat with fellow 'Caps fans
 - [Contact](#contact) - Get in touch with questions or feedback
 
 ---
 
-## Contact
+## Connect with From 231
 {: #contact }
 
-Have thoughts or questions about **From 231**? Want to suggest a topic? Feel free to reply to any newsletter email - I read every response and love hearing from fellow supporters.
+Stay connected with **From 231** on social media:
 
-You can also reach out on social media or through the newsletter platform.
+- **Bluesky**: [@from231.ca](https://bsky.app/profile/from231.ca)
+- **Threads**: [@from231ca](https://www.threads.com/@from231ca)
+- **Discord**: [Join our community](https://discord.gg/jsBeeySvQW)
+
+Have thoughts or questions? Want to suggest a topic? Feel free to reply to any newsletter email - I read every response and love hearing from fellow supporters.
 
 **See you on Tuesday!**  
 — Chris from 231
