@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "From 231 is your weekly newsletter covering all things Vancouver Whitecaps FC"
+description: "From 231 is Chris's weekly newsletter covering all things Vancouver Whitecaps FC"
 permalink: /
 ---
 
@@ -13,7 +13,7 @@ permalink: /
 # Welcome to From 231
 {: .fs-9 }
 
-Your weekly companion for all things Whitecaps FC, straight from Section 231.
+Chris's weekly companion for all things Whitecaps FC, straight from Section 231.
 {: .fs-6 .fw-300 }
 
 [Check out the archives](https://buttondown.com/from231/archive/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -23,7 +23,7 @@ Your weekly companion for all things Whitecaps FC, straight from Section 231.
 
 ## What You'll Get Every Tuesday
 
-Hey there, fellow 'Caps fan! If you're looking for a fun, laid-back take on everything Vancouver Whitecaps FC, you've found the right place. Every Tuesday morning, I send out a newsletter sharing my thoughts, observations, and occasional hot takes from my perch in Section 231 at BC Place.
+Hey there, fellow 'Caps fan! I'm Chris, and if you're looking for a fun, laid-back take on everything Vancouver Whitecaps FC, you've found the right place. Every Tuesday morning, I send out **From 231** - a newsletter sharing my thoughts, observations, and occasional hot takes from my perch in Section 231 at BC Place.
 
 ### Here's what lands in your inbox each week:
 
@@ -43,7 +43,7 @@ Hey there, fellow 'Caps fan! If you're looking for a fun, laid-back take on ever
 
 ## Join the Section 231 Community
 
-Want to be part of the conversation? Sign up below and you'll get your first newsletter next Tuesday morning. No spam, no constant emails - just one thoughtful newsletter each week to kick off your Tuesday right.
+Want to be part of the conversation? Sign up below and you'll get your first **From 231** newsletter next Tuesday morning. No spam, no constant emails - just one thoughtful newsletter each week to kick off your Tuesday right.
 
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/from231"
@@ -70,7 +70,7 @@ Want to be part of the conversation? Sign up below and you'll get your first new
 
 ## Not Sure Yet?
 
-That's totally cool! Feel free to browse the [newsletter archives](https://buttondown.com/from231/archive/) to see what you'd be signing up for. Get a feel for the writing style, the topics covered, and whether From 231 is your kind of newsletter.
+That's totally cool! Feel free to browse the [newsletter archives](https://buttondown.com/from231/archive/) to see what you'd be signing up for. Get a feel for my writing style, the topics I cover, and whether **From 231** is your kind of newsletter.
 
 Recent issues have covered everything from Thomas Müller's impact on the team to the tactical evolution under Vanni Sartini, plus personal stories about becoming sports parents and the emotional journey of being a longtime supporter.
 
@@ -78,9 +78,21 @@ Once you're ready, just come back here and sign up. I'll save you a virtual seat
 
 ---
 
-### Questions?
+## Quick Links
 
-Have thoughts or questions about the newsletter? Want to suggest a topic? Feel free to reply to any newsletter email - I read every response and love hearing from fellow supporters.
+- [About Chris & From 231](/about) - Learn more about the newsletter and who's behind it
+- [Newsletter Archives](https://buttondown.com/from231/archive/) - Read past issues
+- [Contact](#contact) - Get in touch with questions or feedback
 
-See you on Tuesday!
-{: .text-grey-dk-200 .fs-4 }
+---
+
+## Contact
+{: #contact }
+
+Have thoughts or questions about **From 231**? Want to suggest a topic? Feel free to reply to any newsletter email - I read every response and love hearing from fellow supporters.
+
+You can also reach out on social media or through the newsletter platform.
+
+**See you on Tuesday!**  
+— Chris from 231
+{: .text-grey-dk-200 .fs-5 }
