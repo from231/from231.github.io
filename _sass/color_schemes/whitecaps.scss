@@ -1,1 +1,41 @@
+// Whitecaps FC Color Scheme
+// Using accessible colors inspired by Whitecaps FC branding
 
+$blue-300: #0078C8;
+$blue-200: #2C91D1;
+$blue-100: #5AACDB;
+
+$grey-dk-300: #1E3A5F;
+$grey-dk-200: #2B4B6F;
+$grey-dk-100: #3D5A7C;
+
+$grey-lt-300: #B8C5D6;
+$grey-lt-200: #D4DDE8;
+$grey-lt-100: #E8EDF3;
+
+$white: #FFFFFF;
+$green-300: #00A94F;
+
+// Body styles
+$body-background-color: $white;
+$body-heading-color: $grey-dk-300;
+$body-text-color: $grey-dk-300;
+$link-color: $blue-300;
+$btn-primary-color: $blue-300;
+$base-button-color: $grey-dk-100;
+
+// Navigation
+$sidebar-color: $grey-lt-100;
+$nav-child-link-color: $grey-dk-100;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-100;
+
+// Code
+$code-background-color: $grey-lt-100;
+$code-linenumber-color: $grey-dk-000;
+
+// Borders
+$border-color: $grey-lt-200;
+
+// Feedback
+$feedback-color: $green-300;
